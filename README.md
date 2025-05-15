@@ -5,4 +5,4 @@ Slipper AS builds an app and tools to help you save and use electricity smarter.
 We welcome contributions!
 
 ## 📫 Contact Us
-- 🌐 [slipper.no](https://slipper.no)
+[slipper.no](https://slipper.no)
